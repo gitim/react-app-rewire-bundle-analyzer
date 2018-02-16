@@ -1,7 +1,7 @@
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin
 
 function rewireBundleAnalyzer(config) {
-  config.plugins.push(rewireBundleAnalyzer())
+  config.plugins.push(new BundleAnalyzerPlugin())
 
   return config
 }
