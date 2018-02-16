@@ -1,0 +1,22 @@
+{
+  "name": "react-app-rewire-bundle-analyzer",
+  "version": "1.0.0",
+  "description": "Add BundleAnalyzerPlugin plugin to create-react-app using react-app-rewired",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gitim/react-app-rewire-bundle-analyzer.git"
+  },
+  "keywords": [
+    "react-app-rewired",
+    "create-react-app",
+    "webpack",
+    "bundle",
+    "analyzer",
+    "modules"
+  ],
+  "author": "Tim Gibadullin <tim.gibadullin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack-bundle-analyzer": "^2.10.0"
+  }
+}
