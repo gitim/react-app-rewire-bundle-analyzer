@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-bundle-analyzer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add BundleAnalyzerPlugin plugin to create-react-app using react-app-rewired",
   "repository": {
     "type": "git",
